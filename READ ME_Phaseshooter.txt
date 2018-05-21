@@ -1,0 +1,14 @@
+Made by: Severi Pälikkö
+
+Play with your browser.
+
+WASD buttons to move around.
+Space to shoot.
+Mouse to push enemies back.
+R to restart.
+
+Rules:
+Try to beat all the 6 waves that gets harder as you progress.
+Gather points to get shields that block enemies and harm bosses.
+Collect the cherries to get more HP.
+Never give up.
